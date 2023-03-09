@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/fun-andaluz/static/css/main.b743d3f6.chunk.css",
+    "main.js": "/fun-andaluz/static/js/main.bf4242ff.chunk.js",
+    "main.js.map": "/fun-andaluz/static/js/main.bf4242ff.chunk.js.map",
+    "runtime-main.js": "/fun-andaluz/static/js/runtime-main.3f269c23.js",
+    "runtime-main.js.map": "/fun-andaluz/static/js/runtime-main.3f269c23.js.map",
+    "static/css/2.b15ed99b.chunk.css": "/fun-andaluz/static/css/2.b15ed99b.chunk.css",
+    "static/js/2.e53b4077.chunk.js": "/fun-andaluz/static/js/2.e53b4077.chunk.js",
+    "static/js/2.e53b4077.chunk.js.map": "/fun-andaluz/static/js/2.e53b4077.chunk.js.map",
+    "static/js/3.fc1eb8e6.chunk.js": "/fun-andaluz/static/js/3.fc1eb8e6.chunk.js",
+    "static/js/3.fc1eb8e6.chunk.js.map": "/fun-andaluz/static/js/3.fc1eb8e6.chunk.js.map",
+    "index.html": "/fun-andaluz/index.html",
+    "static/css/2.b15ed99b.chunk.css.map": "/fun-andaluz/static/css/2.b15ed99b.chunk.css.map",
+    "static/css/main.b743d3f6.chunk.css.map": "/fun-andaluz/static/css/main.b743d3f6.chunk.css.map",
+    "static/js/2.e53b4077.chunk.js.LICENSE.txt": "/fun-andaluz/static/js/2.e53b4077.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fun-andaluz/static/media/ITCAvantGardeStdBk.9124c976.woff",
+    "static/media/Icon_amarelo.png": "/fun-andaluz/static/media/Icon_amarelo.b97b6933.png",
+    "static/media/landingpage.css": "/fun-andaluz/static/media/nuvens.ae1f0a70.jpg",
+    "static/media/Login.css": "/fun-andaluz/static/media/blur-background.f99c6f24.jpg",
+    "static/media/semantic.min.css": "/fun-andaluz/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/logo_completo.png": "/fun-andaluz/static/media/logo_completo.f20ce9cd.png",
+    "static/media/logo_letras.e2578f33.png": "/fun-andaluz/static/media/logo_letras.e2578f33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f269c23.js",
+    "static/css/2.b15ed99b.chunk.css",
+    "static/js/2.e53b4077.chunk.js",
+    "static/css/main.b743d3f6.chunk.css",
+    "static/js/main.bf4242ff.chunk.js"
+  ]
+}
